@@ -3,7 +3,7 @@
 title: 邵逸轩
 
 # Name pronunciation (optional)
-name_pronunciation: Yee Sh-oo-en sh-ow
+name_pronunciation: sh-ow Yee Shooen
 
 # Full name (for SEO)
 first_name: Yixuan
