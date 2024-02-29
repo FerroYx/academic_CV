@@ -92,7 +92,7 @@ skills:
       - name: Wordpress
         description: ''
         percent: 45
-        icon: wordpress-simple
+        icon: wordpress
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
