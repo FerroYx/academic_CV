@@ -147,5 +147,5 @@ social:
 highlight_name: true
 ---
 
-I'm an International Student double majoring in Physics and Astronomy/Planetary Science at Stony Brook University. My research is focus on obeserving transits of exoplanets around white dwarf. I have strong interests in gravitational wave and lensing, dark energy & dark matters. I love painting during my leisure time.
+I'm an international student double majoring in Physics and Astronomy/Planetary Science at Stony Brook University. My research is focusing on obeserving transits of exoplanets around white dwarf. I have strong interests in gravitational wave and lensing, dark energy & dark matters. I love painting during my leisure time.
 {style="text-align: justify;"}
