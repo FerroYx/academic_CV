@@ -93,7 +93,7 @@ skills:
         description: ''
         percent: 45
         icon: wordpress
-        icon_pack: fas
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
