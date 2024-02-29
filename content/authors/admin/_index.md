@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Bsc in Physics and Astronomy
+    - course: BSc in Physics and Astronomy
       institution: Stony Brook University
       year: 2024
     - course: BSc in Applied Physics
