@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yixuan Shao
+title: 邵 逸轩
 
 # Name pronunciation (optional)
 name_pronunciation: Yee Sh-oo-en sh-ow
@@ -99,6 +99,9 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
