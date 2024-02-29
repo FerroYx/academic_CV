@@ -62,7 +62,8 @@ skills:
       - name: Fortran
         description: ''
         percent: 40
-        icon: devicon/fortran
+        icon: code
+        icon_pack: fas
       - name: CAD
         description: ''
         percent: 40
@@ -71,21 +72,28 @@ skills:
       - name: C4D
         description: ''
         percent: 40
-        icon: cube
+        icon: cubes
         icon_pack: fas
       - name: Photoshop
         description: ''
         percent: 60
-        icon: photoshop
-        icon-pack: devicon
+        icon: photo-film
+        icon-pack: fas
       - name: Premiere
         description: ''
         percent: 60
-        icon: devicon/premierepro
+        icon: video
+        icon-pack: fas
       - name: After effects
         description: ''
         percent: 55
-        icon: devicon/aftereffects
+        icon: film
+        icon_pack: fas
+      - name: Wordpress
+        description: ''
+        percent: 45
+        icon: wordpress-simple
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
