@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Yixuan Shao
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yee Sh-oo-en sh-ow
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yixuan
+last_name: Shao
 
 # Status emoji
 status:
@@ -17,34 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergrad Student Double Major in Astronomy and Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Stony Brook University
+    url: https://www.stonybrook.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include observational astronomy, gravitational wave and dark matter & dark energy.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mechine Learning
+  - Obeservational Astronomy
+  - Procreate
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bsc in Physics and Astronomy
+      institution: Stony Brook University
+      year: 2024
+    - course: BSc in Applied Physics
+      institution: Anhui University
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -58,10 +56,20 @@ skills:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Fortran
+        description: ''
+        percent: 40
+        icon: database
+        icon_pack: fas
+      - name: CAD
+        description: ''
+        percent: 40
+        icon: database
+        icon_pack: fas
+      - name: C4D
         description: ''
         percent: 40
         icon: database
@@ -70,9 +78,9 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Painting
         description: ''
-        percent: 60
+        percent: 80
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -91,9 +99,6 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -105,10 +110,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/FerroYx
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yixuan-shao-41b54b256
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
