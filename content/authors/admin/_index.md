@@ -56,14 +56,14 @@ skills:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 70
+        percent: 60
         icon: chart-line
         icon_pack: fas
       - name: Fortran
         description: ''
         percent: 40
-        icon: code
-        icon_pack: fas
+        icon: devicon/fortran
+        icon_pack: devicon
       - name: CAD
         description: ''
         percent: 40
@@ -74,6 +74,21 @@ skills:
         percent: 40
         icon: cube
         icon_pack: fas
+      - name: Photoshop
+        description: ''
+        percent: 60
+        icon: devicon/photoshop
+        icon_pack: devicon
+      - name: Premiere
+        description: ''
+        percent: 60
+        icon: devicon/premierepro
+        icon_pack: devicon
+      - name: After effects
+        description: ''
+        percent: 55
+        icon: devicon/aftereffects
+        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -88,9 +103,14 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Video Game Player
         description: ''
         percent: 80
+        icon: gamepad
+        icon_pack: fas
+      - name: Photography
+        description: ''
+        percent: 30
         icon: camera-retro
         icon_pack: fas
 
