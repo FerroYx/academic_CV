@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yixuan Shao
+title: 邵逸轩
 
 # Name pronunciation (optional)
-# name_pronunciation: Yee Sh-oo-en sh-ow
+name_pronunciation: Yee Sh-oo-en sh-ow
 
 # Full name (for SEO)
 first_name: Yixuan
@@ -122,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-I'm a International Student double majoring in Physics and Astronomy/Planetary Science at Stony Brook University. My research is focus on obeserving transits of exoplanets around white dwarf.
+I'm an International Student double majoring in Physics and Astronomy/Planetary Science at Stony Brook University. My research is focus on obeserving transits of exoplanets around white dwarf. I have strong interests in gravitational wave and lensing, dark energy & dark matters. I love painting during my leisure time.
 {style="text-align: justify;"}
