@@ -63,7 +63,6 @@ skills:
         description: ''
         percent: 40
         icon: devicon/fortran
-        icon_pack: devicon
       - name: CAD
         description: ''
         percent: 40
@@ -78,17 +77,14 @@ skills:
         description: ''
         percent: 60
         icon: devicon/photoshop
-        icon_pack: devicon
       - name: Premiere
         description: ''
         percent: 60
         icon: devicon/premierepro
-        icon_pack: devicon
       - name: After effects
         description: ''
         percent: 55
         icon: devicon/aftereffects
-        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
