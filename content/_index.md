@@ -65,7 +65,7 @@ sections:
         - title: Undergraduate Student Research
           company: Condor Array Telescope
           company_url: 'https://condorarraytelescope.org/'
-          company_logo: uploads/logo-1.svg
+          company_logo: logo-1.svg
           location: New York
           date_start: '2023-03-08'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Student Assistant
           company: Office of Global Affairs at Stony Brook University
           company_url: ''
-          company_logo: org-gc
+          company_logo: SBU.png
           location: New York
           date_start: '2022-09-30'
           date_end: ''
