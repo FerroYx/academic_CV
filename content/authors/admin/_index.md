@@ -46,6 +46,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 skills:
   - name: Technical
     items:
@@ -76,7 +77,7 @@ skills:
       - name: Photoshop
         description: ''
         percent: 60
-        icon: devicon/photoshop
+        icon: <i class="devicon-photoshop-plain"></i>
       - name: Premiere
         description: ''
         percent: 60
