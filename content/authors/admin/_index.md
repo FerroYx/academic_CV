@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 邵 逸轩
+title: 逸轩 邵
 
 # Name pronunciation (optional)
 name_pronunciation: Yee Sh-oo-en sh-ow
@@ -62,17 +62,17 @@ skills:
       - name: Fortran
         description: ''
         percent: 40
-        icon: database
+        icon: code
         icon_pack: fas
       - name: CAD
         description: ''
         percent: 40
-        icon: database
+        icon: cube
         icon_pack: fas
       - name: C4D
         description: ''
         percent: 40
-        icon: database
+        icon: cube
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -81,7 +81,7 @@ skills:
       - name: Painting
         description: ''
         percent: 80
-        icon: person-hiking
+        icon: paintbrush
         icon_pack: fas
       - name: Cats
         description: ''
@@ -122,7 +122,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Yixuan_Shao_Resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
