@@ -19,8 +19,8 @@ links:
     name: Follow
     url: none
 url_code: ''
-url_pdf: '/workspaces/academic_CV/static/uploads/BeStars.pdf'
-url_slides: '/workspaces/academic_CV/static/uploads/YixuanShaoPresentation.pptx'
+url_pdf: 'uploads/BeStars.pdf'
+url_slides: uploads/YixuanShaoPresentation.pptx
 url_video: ''
 
 # Slides (optional).
