@@ -64,7 +64,7 @@ sections:
       items:
         - title: Graduate Student Research
           company: SBU Strong Lensing Research Group
-          company_url: 'https://condorarraytelescope.org/'
+          company_url: 'https://sibirrer.github.io/group.html'
           company_logo: SBU
           location: New York
           date_start: '2025-02-04'
@@ -122,7 +122,7 @@ sections:
           date_end: '2024-05-17'
           description: |2-
               Responsibilities include:
-              
+
               * Student Activities Flyers and Posters Designing
               * Database and Website Designing
     design:
