@@ -19,8 +19,8 @@ links:
     name: Follow
     url: none
 url_code: ''
-url_pdf: '/uploads/BeStars.pdf'
-url_slides: /uploads/YixuanShaoPresentation.pptx
+url_pdf: 'https://ferroyx.github.io/academic_CV/uploads/BeStars.pdf'
+url_slides: 'https://ferroyx.github.io/academic_CV//uploads/YixuanShaoPresentation.pptx'
 url_video: ''
 
 # Slides (optional).
