@@ -94,9 +94,11 @@ sections:
           date_start: '2025-01-30'
           date_end: ''
           description: |2-
-                      * Database and Website Building
-                      * Program coordinator
-                      * Document translations
+              Responsibilities include:
+
+              * Database and Website Building
+              * Program coordinator
+              * Document translations
         - title: Program on-site Coordinator
           company: Stony Brook University Freshman Lunching Year (FLY) at SISU
           company_url: 'https://www.stonybrook.edu/commcms/studyabroad/fly/index.php'
@@ -105,10 +107,12 @@ sections:
           date_start: '2024-06-06'
           date_end: '2025-01-20'
           description: |2-
-                      * Student Management
-                      * Program Management
-                      * Course Matching
-                      * Students' Activities Organizing
+              Responsibilities include:
+
+              * Student Management
+              * Program Management
+              * Course Matching
+              * Students' Activities Organizing
         - title: Student Assistant
           company: Office of Global Affairs at Stony Brook University
           company_url: 'https://www.stonybrook.edu/iaps/'
@@ -116,7 +120,11 @@ sections:
           location: New York
           date_start: '2022-09-30'
           date_end: '2024-05-17'
-          description: Student Activities Flyers and Posters Designing, Database and Website Designing.
+          description: |2-
+              Responsibilities include:
+              
+              * Student Activities Flyers and Posters Designing
+              * Database and Website Designing
     design:
       columns: '2'
   - block: accomplishments
