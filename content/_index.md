@@ -103,7 +103,7 @@ sections:
           company_logo: SBU
           location: Shanghai
           date_start: '2024-06-06'
-          date_end: '2025-1-20'
+          date_end: '2025-01-20'
           description: |2-
                       * Student Management
                       * Program Management
