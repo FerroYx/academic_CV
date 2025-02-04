@@ -62,6 +62,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Graduate Student Research
+          company: SBU Strong Lensing Research Group
+          company_url: 'https://condorarraytelescope.org/'
+          company_logo: SBU
+          location: New York
+          date_start: '2025-02-04'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Modeling
         - title: Undergraduate Student Research
           company: Condor Array Telescope
           company_url: 'https://condorarraytelescope.org/'
@@ -75,14 +86,37 @@ sections:
               * Data Analysing
               * Data Visualizing
               * Data Management
+        - title: Graduate Assistant
+          company: Office of Global Affairs at Stony Brook University
+          company_url: 'https://www.stonybrook.edu/iaps/'
+          company_logo: SBU
+          location: New York
+          date_start: '2025-01-30'
+          date_end: ''
+          description: |2-
+                      * Database and Website Building
+                      * Program coordinator
+                      * Document translations
+        - title: Program on-site Coordinator
+          company: Stony Brook University Freshman Lunching Year (FLY) at SISU
+          company_url: 'https://www.stonybrook.edu/commcms/studyabroad/fly/index.php'
+          company_logo: SBU
+          location: Shanghai
+          date_start: '2024-06-06'
+          date_end: '2025-1-20'
+          description: |2-
+                      * Student Management
+                      * Program Management
+                      * Course Matching
+                      * Students' Activities Organizing
         - title: Student Assistant
           company: Office of Global Affairs at Stony Brook University
-          company_url: ''
+          company_url: 'https://www.stonybrook.edu/iaps/'
           company_logo: SBU
           location: New York
           date_start: '2022-09-30'
-          date_end: ''
-          description: Database and Website Building, Student Activities Flyers and Posters Designing.
+          date_end: '2024-05-17'
+          description: Student Activities Flyers and Posters Designing, Database and Website Designing.
     design:
       columns: '2'
   - block: accomplishments

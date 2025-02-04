@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergrad Student Double Major in Astronomy and Physics
+role: Master Student Major Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,14 +25,15 @@ organizations:
     url: https://www.stonybrook.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include observational astronomy, gravitational wave and dark matter & dark energy.
+bio: My research interests include observational astronomy, gravitational wave, gravitational lensing and dark matter & dark energy.
 
 # Interests to show in About widget
 interests:
+  - Gravitational Lensing
+  - Dark Matter & Dark Energy
+  - Obeservational Astronomy
   - Artificial Intelligence
   - Mechine Learning
-  - Obeservational Astronomy
-  - Procreate
 
 # Education to show in About widget
 education:
@@ -150,5 +151,5 @@ social:
 highlight_name: true
 ---
 
-I'm an international student double majoring in Physics and Astronomy/Planetary Science at Stony Brook University. My research is focusing on obeserving transits of exoplanets around white dwarf. I have strong interests in gravitational wave and lensing, dark energy & dark matters. I love painting during my leisure time.
+I'm a master student majoring in Physics with Concentration in Astrophysics/Cosmology at Stony Brook University. My research was focusing on obeserving transits of exoplanets around white dwarf. I have strong interests in gravitational wave and lensing, dark energy & dark matters. I love my cat Pearl and Obsidian and love painting during my leisure time.
 {style="text-align: justify;"}
