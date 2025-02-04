@@ -37,6 +37,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: MA in Physics with concentration on Astrophysics
+      institution: Stony Brook University
+      year: 2026
     - course: BSc in Physics and Astronomy
       institution: Stony Brook University
       year: 2024
@@ -56,7 +59,7 @@ skills:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 60
+        percent: 70
         icon: chart-line
         icon_pack: fas
       - name: Fortran
@@ -110,7 +113,7 @@ skills:
         icon_pack: fas
       - name: Video Game Player
         description: ''
-        percent: 80
+        percent: 50
         icon: gamepad
         icon_pack: fas
       - name: Photography
@@ -129,7 +132,7 @@ social:
     link: 'mailto:yixuan.shao@stonybrook.edu'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: none
   - icon: github
     icon_pack: fab
     link: https://github.com/FerroYx
