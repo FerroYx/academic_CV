@@ -147,5 +147,4 @@ social:
 highlight_name: true
 ---
 
-I'm a master student majoring in Physics with Concentration in Astrophysics/Cosmology at Stony Brook University. My research was focusing on obeserving transits of exoplanets around white dwarf. I have strong interests in gravitational wave and lensing, dark energy & dark matters. I love my cat Pearl and Obsidian and love painting during my leisure time.
-{style="text-align: justify;"}
+I'm a master student majoring in Physics with Concentration in Astrophysics/Cosmology at Stony Brook University. During undergraduate, my research was focusing on obeserving transits of exoplanets around white dwarf. I'm current a member of Stony Brook Strong lensing Group, supervised by [Prof.Simon Birrer](https://sibirrer.github.io/). And also a member of the LSST Strong Lensing Science Collaboration. I'm interested in Strong Gravitational lens, Dark Matter and Dark Energy, Cosmology Parameters Modeling, and Simulations.
