@@ -3,7 +3,7 @@
 title: Yixuan Shao
 
 # Name pronunciation (optional)
-name_pronunciation: Yee Shooen Sh-ow
+name_pronunciation: YeeShooen Sh-ow
 
 # Full name (for SEO)
 first_name: Yixuan
