@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student Major Physics
+role: Member of LSST SLSC, Master Student & Graduate Assistant at SBU
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,7 +32,6 @@ interests:
   - Gravitational Lensing
   - Dark Matter & Dark Energy
   - Obeservational Astronomy
-  - Artificial Intelligence
   - Mechine Learning
 
 # Education to show in About widget
@@ -44,9 +43,6 @@ education:
     - course: BSc in Physics and Astronomy
       institution: Stony Brook University
       year: 2024
-    - course: BSc in Applied Physics
-      institution: Anhui University
-      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -145,7 +141,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Yixuan_Shao_Resume.pdf
+    link: uploads/Resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
