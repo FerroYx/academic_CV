@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Shao Yixuan
+title: Yixuan Shao
 
 # Name pronunciation (optional)
-name_pronunciation: sh-ow Yee Shooen
+name_pronunciation: Yee Shooen Sh-ow
 
 # Full name (for SEO)
 first_name: Yixuan
