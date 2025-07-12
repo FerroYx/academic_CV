@@ -1,6 +1,7 @@
 ---
-title: Lre Comparision Single Lens Simulation
+title: LSST-Roman-Euclid Observatories Comparision via Single Lens Simulation
 date: '2025-07-12'
+summary: Using Slsim simulate single lens via different bands from different Observatories.
 ---
 ```python
 import matplotlib.pyplot as plt
