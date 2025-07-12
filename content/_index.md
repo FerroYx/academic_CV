@@ -58,7 +58,7 @@ sections:
         - title: Member of the LSST Strong Lensing Science Collaboration
           company: The Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST)
           company_url: 'https://sites.google.com/view/lsst-stronglensing/home?authuser=0'
-          company_logo: Rubin-O-Logo.png
+          company_logo: Rubin
           location: New York
           date_start: '2025-02-04'
           date_end: ''
