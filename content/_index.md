@@ -55,17 +55,19 @@ sections:
       title: Research Experience
       date_format: Jan 2006
       items:
-        - title: Graduate Student Research
-          company: SBU Strong Lensing Research Group
-          company_url: 'https://sibirrer.github.io/group.html'
+        - title: Member of the LSST Strong Lensing Science Collaboration
+          company: The Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST)
+          company_url: 'https://sites.google.com/view/lsst-stronglensing/home?authuser=0'
           company_logo: SBU
           location: New York
           date_start: '2025-02-04'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Modeling
+              
+              * Dark Matter Subhalos Integration
+              * Lensing Finding via Virsion Transformer Model
+              * Lens Simulation for Different Observatories (LSST, Roman, Euclid)
         - title: Undergraduate Student Research
           company: Condor Array Telescope
           company_url: 'https://condorarraytelescope.org/'
@@ -76,9 +78,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Data Analysing
-              * Data Visualizing
-              * Data Management
+              * Generated and processed XML files based on Condor Array Telescope's existing observational data via Python.
+              * Screened primarily and secondarily of data based on extensive Photometry.
+              * Connected filtered pairs of datasets to the online FITS file database, visualized target stellar coordinates based on FITS files via Python to assist in processing error terms in observational data.
+              * Optimized the usability of the resulting data and improved the database to facilitate more effective observations.
     design:
       columns: '2'
 
