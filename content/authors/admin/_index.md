@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 邵逸轩
+title: Shao Yixuan
 
 # Name pronunciation (optional)
 name_pronunciation: sh-ow Yee Shooen
