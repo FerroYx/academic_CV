@@ -52,15 +52,8 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      title: Research Experience
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Student Research
           company: SBU Strong Lensing Research Group
@@ -86,6 +79,14 @@ sections:
               * Data Analysing
               * Data Visualizing
               * Data Management
+    design:
+      columns: '2'
+
+  - block: experience
+    content:
+      title: Work Experience
+      date_format: Jan 2006
+      items:
         - title: Graduate Assistant
           company: Office of Global Affairs at Stony Brook University
           company_url: 'https://www.stonybrook.edu/iaps/'
