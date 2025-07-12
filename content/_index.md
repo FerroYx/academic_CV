@@ -65,9 +65,9 @@ sections:
           description: |2-
               Responsibilities include:
               
-              * Dark Matter Subhalos Integration
-              * Lensing Finding via Virsion Transformer Model
-              * Lens Simulation for Different Observatories (LSST, Roman, Euclid)
+              * Integrate PyHalos into SLsim lens object, adding dark matter subhalos structures into simulation.
+              * Lens finding project via machine learning (Virsion Transformer Model).
+              * Adding Euclid configuration in Slsim and Lenstronomy, Comparing the lensing simulation quanlity of different bands and different observatories (LSST, Roman, Euclid).
         - title: Undergraduate Student Research
           company: Condor Array Telescope
           company_url: 'https://condorarraytelescope.org/'
